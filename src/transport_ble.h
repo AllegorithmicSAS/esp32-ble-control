@@ -1,5 +1,5 @@
 #pragma once
 
-#include "leddriver.h"
+struct LedController;
 
-void transportBleInit(ILedDriver * driver);
+void transportBleInit(LedController *ctrl);
