@@ -90,3 +90,7 @@ struct {
 ### Upload to the board
 
     make upload
+
+# Test the board from Chrome
+
+https://clems71.github.io/esp32-ble-control/
